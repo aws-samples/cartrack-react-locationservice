@@ -12,7 +12,6 @@ To make this application the following components were used during the propotype
 
 For more information about Amazon Location Services, please consult the Amazon Location Service Developer Guide.
 
-
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
