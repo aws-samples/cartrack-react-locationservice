@@ -1,0 +1,16 @@
+/* 
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+SPDX-License-Identifier: MIT-0
+ */
+.sidebarStyle {
+  display: inline-block;
+  position: absolute;
+  border-radius: 15px 15px 15px 15px;
+  top: 0;
+  left: 50px;
+  margin: 12px;
+  background-color: #404040;
+  color: #ffffff;
+  z-index: 1 !important;
+  padding: 6px;
+  }

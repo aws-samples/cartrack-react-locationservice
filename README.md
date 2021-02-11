@@ -1,11 +1,6 @@
 ## Car Tracking using AWS Location Services
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This is a sample application using Amazon Location Service, Amplify, API Gateway, IOT Core and Lambda Function. For more information, please consult the Amazon Location Service Developer Guide.
 
 ## Security
 
