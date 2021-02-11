@@ -1,4 +1,4 @@
-## My Project
+## Car Tracking using AWS Location Services
 
 TODO: Fill this README out!
 
