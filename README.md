@@ -4,11 +4,11 @@ This is a sample application using Amazon Location Service, Amplify, API Gateway
 
 The expected result after running the sample code is a map rendered on users web browser as shown in the picture bellow: 
 
-![Map](/repoResources/map.png)
+![Map](/img/map.png)
 
 To make this application the following components were used during the propotype building phase:
 
-![CarTracker](/repoResources/CarTracker.png)
+![CarTracker](/img/CarTracker.png)
 
 For more information about Amazon Location Services, please consult the Amazon Location Service Developer Guide.
 
