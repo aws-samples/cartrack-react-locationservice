@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0 
+
 import sys
 from pip._internal import main
 
@@ -11,34 +14,25 @@ import boto3
 import json
 import datetime
 
-TRACKER_NAME = "carTracker"
+TRACKER_NAME = "MySampleTracker"
+DEVICE_ID = "car01"
 
 def handler(event, context):
-
-  # load the side-loaded Amazon Location Service model; needed during Public Preview
   os.environ["AWS_DATA_PATH"] = os.environ["LAMBDA_TASK_ROOT"]
 
-  client = boto3.client("location")
-  #response = client.get_device_position(DeviceId="cartrack01", TrackerName="MyTracker")
-  #print(response["DeviceId"])
-  #print(response["Position"])
-  
+  client = boto3.client("location")  
   now = datetime.datetime.now().isoformat()
   yesterday = (datetime.datetime.now() - timedelta(1)).isoformat()
   
-  response = client.get_device_position_history(DeviceId="car01", TrackerName="carTracker", StartTimeInclusive=yesterday, EndTimeExclusive=now)
-  print(response)
-
-  #current_time = datetime.datetime.now().time()
-
-  # body = {
-  #     "message": "Hello cartrack, the current time is " + str(now)
-  # }
-  body = response['DevicePositions']
+  try:
+    gps_data = client.get_device_position_history(DeviceId=DEVICE_ID, TrackerName=TRACKER_NAME, StartTimeInclusive=yesterday, EndTimeExclusive=now)
+    body = gps_data["DevicePositions"]
+  except:
+    body = ""
+    print ("Error getting Device Position History")
 
   response = {
       "statusCode": 200,
-      # "body": json.dumps(body),
       "body": json.dumps(body, indent=4, sort_keys=True, default=str),
       'headers': {
         'Content-Type': 'application/json',
