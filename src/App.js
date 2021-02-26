@@ -20,10 +20,11 @@ import TopBar from './topBar';
 import ControlPanel from './ControlPanel'
 
 Amplify.configure(amplifyConfig);
+API.configure(amplifyConfig);
 
 // Replace with the name of the map that you created on the Amazon Location Service console: https://console.aws.amazon.com/location/maps/home?region=us-east-1#/
-const mapName = "Itiro";
-const apiName = "newmapv3"
+const mapName = "MyMap";
+const apiName = "blogfinal"
 const apiPath = "/items"
 
 const App = () => {
