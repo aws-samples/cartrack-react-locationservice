@@ -20,7 +20,7 @@ For more information about Amazon Location Services, please consult the Amazon L
 ## How to Build
 If you need information on how to build your prototype, please, access the AWS Blog Post using one of the following URL:
 
-Portuguese Version
+**Portuguese Version**
 
 [AWS Blog Post - Part 1](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-1/)
 
@@ -30,7 +30,7 @@ Portuguese Version
 
 
 
-Spanish Version
+**Spanish Version**
 
 [AWS Blog Post - Part 1](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-1-2/)
 
