@@ -5,7 +5,7 @@ SPDX-License-Identifier: MIT-0
 
 ## Car Tracking using Amazon Location Services
 
-This is a sample application using [Amazon Location Service](https://aws.amazon.com/location/), AWS Amplify, Amazon API Gateway, AWS IOT Core and Amazon Lambda to track a car. The objective of this repository is to present a sample application using AWS Cloud Services.
+This is a sample application using [Amazon Location Service](https://aws.amazon.com/location/), [AWS Amplify](https://aws.amazon.com/amplify/), [Amazon API Gateway](https://aws.amazon.com/api-gateway/), [AWS IOT Core](https://aws.amazon.com/iot-core/) and [Amazon Lambda](https://aws.amazon.com/lambda/) to track a car. The objective of this repository is to present a sample application using AWS Cloud Services.
 
 The expected result after running the sample code is a map rendered on users web browser as shown in the picture bellow: 
 
