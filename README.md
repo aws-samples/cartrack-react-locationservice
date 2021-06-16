@@ -18,7 +18,7 @@ To make this application the following components were used during the propotype
 For more information about Amazon Location Services, please consult the Amazon Location Service Developer Guide.
 
 ## How to Build
-
+If you need information on how to build your prototype, please, access the AWS Blog Post using one of the following URL:
 
 Portuguese Version
 
