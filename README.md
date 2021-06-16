@@ -20,20 +20,22 @@ For more information about Amazon Location Services, please consult the Amazon L
 ## How to Build
 
 
+###Portuguese Version
+[AWS Blog Post - Part 1](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-1/)
 
-[AWS Blog Post - Part 1 (Portuguese version)](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-1/)
+[AWS Blog Post - Part 2](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-2/)
 
-[AWS Blog Post - Part 2 (Portuguese version)](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-2/)
-
-[AWS Blog Post - Part 3 (Portuguese version)](https://aws.amazon.com/pt/blogs/aws-brasil/criando-proprio-rastreador-veicular-parte-3/)
+[AWS Blog Post - Part 3](https://aws.amazon.com/pt/blogs/aws-brasil/criando-proprio-rastreador-veicular-parte-3/)
 
 
 
-[AWS Blog Post - Part 1 (Spanish version)](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-1-2/)
+###Spanish Version
 
-[AWS Blog Post - Part 2 (Spanish version)](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-2/)
+[AWS Blog Post - Part 1](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-1-2/)
 
-[AWS Blog Post - Part 3 (Spanish version)](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-3/)
+[AWS Blog Post - Part 2](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-2/)
+
+[AWS Blog Post - Part 3](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-3/)
 
 ## Security
 
