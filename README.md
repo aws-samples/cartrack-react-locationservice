@@ -20,7 +20,8 @@ For more information about Amazon Location Services, please consult the Amazon L
 ## How to Build
 
 
-###Portuguese Version
+Portuguese Version
+
 [AWS Blog Post - Part 1](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-1/)
 
 [AWS Blog Post - Part 2](https://aws.amazon.com/pt/blogs/aws-brasil/criando-o-seu-proprio-rastreador-veicular-parte-2/)
@@ -29,7 +30,7 @@ For more information about Amazon Location Services, please consult the Amazon L
 
 
 
-###Spanish Version
+Spanish Version
 
 [AWS Blog Post - Part 1](https://aws.amazon.com/es/blogs/aws-spanish/creacion-de-su-propio-rastreador-de-vehiculos-parte-1-2/)
 
